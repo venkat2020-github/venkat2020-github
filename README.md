@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Venkateswara Rao Badisa
 - 👀 I’m interested in Machine Learning and Artifitial Intelligence
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Python network, Machine Learning, Deep Learning, AI and Data Science
+- 🌱 I’m currently doing MTech in Data Science Engineering at BITS Pilani.
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, AI and Data Science using Python.
 - 📫 How to reach me at GitHub @venkat2020-github
 
 <!---
